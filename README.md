@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/gabriel-rodriguezcastellini/arjs-react-designer-app/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gabriel-rodriguezcastellini/arjs-react-designer-app/actions/workflows/github-code-scanning/codeql)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
